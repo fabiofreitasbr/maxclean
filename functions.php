@@ -7,7 +7,7 @@ $argVar = array(
     
     
     "instagram" => 'https://www.instagram.com/maxclean.servicos',
-	"facebook" => 'https://www.facebook.com/maxclean.servicos',
+	"facebook" => 'https://www.facebook.com/maxcleanrj.servicos',
 	"youtube" => "",
     
 	"email" => "mailto:contato@maxclean.com.br",
