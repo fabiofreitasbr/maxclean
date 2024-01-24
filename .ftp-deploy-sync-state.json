@@ -1,0 +1,749 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1703792232226,
+    "data": [
+        {
+            "type": "file",
+            "name": "404.php",
+            "size": 519,
+            "hash": "7847290cc74d9d8ad843620a354ddd822ebeb731aefe4ebd4a01538802cb319a"
+        },
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 72,
+            "hash": "19266c9365cf1b2bd683b59cda3e6a4f0818f19227de8b936091fa941b39187f"
+        },
+        {
+            "type": "folder",
+            "name": "css"
+        },
+        {
+            "type": "file",
+            "name": "footer.php",
+            "size": 4526,
+            "hash": "6542683120953a04efebd90822a9d3173b06e8277bd6ba8a8d1f28023527b4a8"
+        },
+        {
+            "type": "file",
+            "name": "footer-higienizacao.php",
+            "size": 4526,
+            "hash": "6542683120953a04efebd90822a9d3173b06e8277bd6ba8a8d1f28023527b4a8"
+        },
+        {
+            "type": "file",
+            "name": "front-page.php",
+            "size": 480,
+            "hash": "392244880b82e01e56dbdc93b0eae46499fda17fb4f6be158c3be0e3c042ae03"
+        },
+        {
+            "type": "file",
+            "name": "functions.php",
+            "size": 560,
+            "hash": "b94a28691456f85870eac7fd85bc3557aefddd4601e0070e6fbf848d07b2a01e"
+        },
+        {
+            "type": "file",
+            "name": "header-higienizacao.php",
+            "size": 1866,
+            "hash": "37933c4cf85e8313cf4f938305218be4bea482f709eb6caac80f31c0d635f160"
+        },
+        {
+            "type": "file",
+            "name": "header.php",
+            "size": 2079,
+            "hash": "9463358e14d1480768f3c74b98a10447fc5a88d244b70773291f32b673a0425d"
+        },
+        {
+            "type": "folder",
+            "name": "img"
+        },
+        {
+            "type": "folder",
+            "name": "inc"
+        },
+        {
+            "type": "file",
+            "name": "index.php",
+            "size": 299,
+            "hash": "39c87ceeb79150c2421973cde9862e7726b7e3e7c1ca973bd5cebe137fbd2214"
+        },
+        {
+            "type": "folder",
+            "name": "js"
+        },
+        {
+            "type": "file",
+            "name": "package-lock.json",
+            "size": 48370,
+            "hash": "92b86315ab8e4d8985bb9dfce6b079d7156a27c24c1fbe99435a5c4881259356"
+        },
+        {
+            "type": "file",
+            "name": "package.json",
+            "size": 59,
+            "hash": "4876a801a737faf27a2a149912a1e13b914718d2ecf7cf2147ba1f56ca7827b6"
+        },
+        {
+            "type": "file",
+            "name": "page.php",
+            "size": 299,
+            "hash": "39c87ceeb79150c2421973cde9862e7726b7e3e7c1ca973bd5cebe137fbd2214"
+        },
+        {
+            "type": "file",
+            "name": "single.php",
+            "size": 1419,
+            "hash": "848de95b4e0ee766fec310d5914c0b335247007f850f3501506839348b56dea3"
+        },
+        {
+            "type": "folder",
+            "name": "src"
+        },
+        {
+            "type": "file",
+            "name": "style.css",
+            "size": 28,
+            "hash": "8c12b8e73daccc47b46424a899c18c52cfba9a3d5763ce41d6eeb000d68136b8"
+        },
+        {
+            "type": "file",
+            "name": "tailwind.config.js",
+            "size": 905,
+            "hash": "7a8bb9116698aab10d090ae30892c5c2df470ba81691605e9982cdb9952ce1e0"
+        },
+        {
+            "type": "file",
+            "name": "template-categorias.php",
+            "size": 604,
+            "hash": "6008ef981f900c04d571d73ae848ccfe7243c78b08c50e358c05188a454b70a2"
+        },
+        {
+            "type": "file",
+            "name": "template-dicas.php",
+            "size": 1785,
+            "hash": "902a629a9c6e6c695e09449f5e40c69620c3fb210bf94b3d3c3b2638112d243d"
+        },
+        {
+            "type": "file",
+            "name": "template-contato.php",
+            "size": 2649,
+            "hash": "a777dbfe823951c49642bf47e6f8d9df9844ccb8074116639e0502740c35061c"
+        },
+        {
+            "type": "file",
+            "name": "template-landing.php",
+            "size": 507,
+            "hash": "666640762b3882a1532bdc2dd0c366ee50710987a568bb5e389c81ce02bd05f4"
+        },
+        {
+            "type": "file",
+            "name": "template-sobre.php",
+            "size": 2777,
+            "hash": "edd7496c67fba3a4d0b9faeeaf83eb83cdef17048af6efc60785e4074c40a097"
+        },
+        {
+            "type": "folder",
+            "name": "templates"
+        },
+        {
+            "type": "file",
+            "name": "css/style.css",
+            "size": 21028,
+            "hash": "1f15e6337c2d609ee4167614a2c64f9eae6268c96ef76addedb0c29d05aaf313"
+        },
+        {
+            "type": "folder",
+            "name": "css/tailwind"
+        },
+        {
+            "type": "file",
+            "name": "img/banner.png",
+            "size": 1030014,
+            "hash": "60ccd1259a1b25f71573863642371895a7e6a1ef23c4885250281d60b50ffeef"
+        },
+        {
+            "type": "file",
+            "name": "img/catalogo.png",
+            "size": 867323,
+            "hash": "52a84aef2173ddf1e9bdcabdcf875683e70062871a3aac11c0c35362748a8986"
+        },
+        {
+            "type": "folder",
+            "name": "img/depoimentos"
+        },
+        {
+            "type": "folder",
+            "name": "img/exemplos"
+        },
+        {
+            "type": "file",
+            "name": "img/higienizacao-sobre.png",
+            "size": 224754,
+            "hash": "fd509b3642aaf2dd3a0388348e5bb18d473941eea871d7a8280b2be69df1788c"
+        },
+        {
+            "type": "file",
+            "name": "img/higienizacao-sofa.jpg",
+            "size": 87273,
+            "hash": "4ce39b64ca543085cacb01300a455001693d1dbd004a9c4aedd68ff9d1e96a8b"
+        },
+        {
+            "type": "file",
+            "name": "img/higienizacao.jpg",
+            "size": 87074,
+            "hash": "4491ef8ee8e9654ed02bd27b61428d33154515e04d76f771b0fc40f22220325b"
+        },
+        {
+            "type": "file",
+            "name": "img/logo-icon.png",
+            "size": 20249,
+            "hash": "173c553f1c14eb865f78d45cd9c2a08c44b53b05ed80cfd7900165ab651a31c5"
+        },
+        {
+            "type": "file",
+            "name": "img/logo-normal.png",
+            "size": 40869,
+            "hash": "c62257bb7bfb403cc9acce630afffd59eb5d6320f832c3524298d7ca235cd9a8"
+        },
+        {
+            "type": "file",
+            "name": "img/logo-white.png",
+            "size": 27023,
+            "hash": "e093a29020c264d08492dbb4f5e97985912aea40128de638151b379a621d0ece"
+        },
+        {
+            "type": "file",
+            "name": "img/logo.png",
+            "size": 26781,
+            "hash": "ba4381350c28ddc7b640ebcb6f50923bbf142bd0ef16397e9f6ae7408b24380e"
+        },
+        {
+            "type": "folder",
+            "name": "img/originais"
+        },
+        {
+            "type": "folder",
+            "name": "img/parceiros"
+        },
+        {
+            "type": "folder",
+            "name": "img/resultados"
+        },
+        {
+            "type": "folder",
+            "name": "img/servicos"
+        },
+        {
+            "type": "file",
+            "name": "img/sobre-img.png",
+            "size": 194496,
+            "hash": "7db2a435c689141ca86766791f4f4e9656e0424249a3e72dfd369644b297fec7"
+        },
+        {
+            "type": "file",
+            "name": "img/sofa.png",
+            "size": 149483,
+            "hash": "693dd5bb848e87338284e5896048a63fa7a347a7e9db76f7822b66a87bb94282"
+        },
+        {
+            "type": "folder",
+            "name": "inc/functions"
+        },
+        {
+            "type": "file",
+            "name": "inc/load.php",
+            "size": 203,
+            "hash": "bfc25a7a2ced2509097ab605057077568cf0b62dfb643223150fe06f82b87f88"
+        },
+        {
+            "type": "file",
+            "name": "js/script.js",
+            "size": 2527,
+            "hash": "3413d8d1bc05e0ac8c4bff06cb44d1adff2dc2bbc1804461196e1aa99f5b062e"
+        },
+        {
+            "type": "file",
+            "name": "src/categorias.html",
+            "size": 13780,
+            "hash": "d03d2e776b8da99609f59d04dd21ef0dc6c02adc1e4079e761680cc2f0185240"
+        },
+        {
+            "type": "file",
+            "name": "src/contato.html",
+            "size": 18033,
+            "hash": "c9f2877c9282904cfb7d1734fff3cbfd752b8bc4cf4e1786e3f90f050bc6705e"
+        },
+        {
+            "type": "file",
+            "name": "src/dicas-single.html",
+            "size": 13813,
+            "hash": "6a14d289768e37ec7c18bf1d3c4d26b4da720b515246475c40fcff1b3d6ab5e5"
+        },
+        {
+            "type": "file",
+            "name": "src/dicas.html",
+            "size": 25613,
+            "hash": "58e57b6e66bf46a84ce7ecd7cb31b1f7457c8d8f77d48610518cd94d177ce709"
+        },
+        {
+            "type": "file",
+            "name": "src/index.html",
+            "size": 30298,
+            "hash": "4b6dc1b6283d4694abd431f7c12bfb67dd0b6327a920e7bd41a78f205e1f8960"
+        },
+        {
+            "type": "file",
+            "name": "src/single.html",
+            "size": 20464,
+            "hash": "0907d24b590a6470b66d524ad7e78f7c4991e75cbeb8ff747a43f6e52546d2f1"
+        },
+        {
+            "type": "file",
+            "name": "src/sobre.html",
+            "size": 14720,
+            "hash": "7776436d1e5c36519a4825d412fd3b3c5278939c1590a3950544e30f178eb888"
+        },
+        {
+            "type": "folder",
+            "name": "templates/home"
+        },
+        {
+            "type": "folder",
+            "name": "templates/parts"
+        },
+        {
+            "type": "file",
+            "name": "css/tailwind/style.css",
+            "size": 3719,
+            "hash": "d923a8d90239bcfb4be3d80abb754ffd46137ca733754cd6c860782d6b1dd613"
+        },
+        {
+            "type": "file",
+            "name": "img/depoimentos/beatriz.jpg",
+            "size": 7651,
+            "hash": "3d152a4bfd6c6f5a122f585d5d743228804f03de0aeb27f1a6d88b0ad353464d"
+        },
+        {
+            "type": "file",
+            "name": "img/depoimentos/joao.jpg",
+            "size": 5200,
+            "hash": "3d26c1505a1fd549f000483d592d62cd672cded36b1f712ee90eaec6a0add017"
+        },
+        {
+            "type": "file",
+            "name": "img/depoimentos/maria.jpg",
+            "size": 6770,
+            "hash": "de5aede7f7cb0ecd8e0dbf17c47df8e4792e7d35d681dc81ccccb0ea098bc843"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/antes-depois.png",
+            "size": 300241,
+            "hash": "39e112c66852ebcc2fc3ecb114a251fc8c14300e4941162af8f7481af3990e53"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/banner.png",
+            "size": 42344,
+            "hash": "9eba904f51740259498384bbf32fd30bf962c1ebe1db2369f1904f47858a5456"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/bradesco.png",
+            "size": 10034,
+            "hash": "6ff7f661a19040e814d5f86e913c9414e8d113403a60b2fbd76bef30a3e8e9ea"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/contato.png",
+            "size": 58260,
+            "hash": "880a7d42fdb91cda825e40942b64bb005a74fed304e10b967425ffc3e652c5eb"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/person.png",
+            "size": 35710,
+            "hash": "e827bd21b4eb92b65cccefbad96324335d26f5224e9e960957d3c62f0ce6418b"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/petrobras.png",
+            "size": 15529,
+            "hash": "fcee21277da1d9cf44b7a9bbee7507576ee5e4390af55c36db4ec9d660a9283c"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/post.png",
+            "size": 131221,
+            "hash": "b972444cda3263e49709d53984abf1b4487391275bc573030b808ce52db7d0fc"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/record.png",
+            "size": 24964,
+            "hash": "7c35db341d877c56b546a012136a88caf28303d462cd64b328fae333edd04aa3"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/servicos.png",
+            "size": 109030,
+            "hash": "23bbcb9f0de0d63168ec5fa912519ac811e5ff20b08f8108295cd1000047347f"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/sofa-vantagens.png",
+            "size": 438500,
+            "hash": "9d5e287a0ae6b86a7671367d79c17782468ed203c7e1be99ece3be9d9f09404c"
+        },
+        {
+            "type": "file",
+            "name": "img/exemplos/vantagens-2.png",
+            "size": 40547,
+            "hash": "1f7804337c13e6393110da07bba5f9240a953ceea34ec994bd508c944870d537"
+        },
+        {
+            "type": "file",
+            "name": "img/originais/higienizacao-sobre.jpg",
+            "size": 61412,
+            "hash": "dee48d26bae53f1771c31256a0b3fb857ce61acc0c13e0b52ac8d7612b399582"
+        },
+        {
+            "type": "file",
+            "name": "img/parceiros/ansys.png",
+            "size": 4619,
+            "hash": "1786997e4a130f86e08dc5b2d76b2f384a38874d05819770720540875f5b4868"
+        },
+        {
+            "type": "file",
+            "name": "img/parceiros/asca.png",
+            "size": 7137,
+            "hash": "981a1202d6a18a333869b06d9688574acfd19a898c07b12bf3a6a9863aa60ff0"
+        },
+        {
+            "type": "file",
+            "name": "img/parceiros/cadfor.png",
+            "size": 3958,
+            "hash": "4b91503582ee8966ea08e86514260d22da767039556e91f630aa3388f3388eb8"
+        },
+        {
+            "type": "file",
+            "name": "img/parceiros/crcc.png",
+            "size": 7825,
+            "hash": "3885810a9a3dffd2b1ef9f6504157a4b79336065a5a38e1b9b8d614617a1fd72"
+        },
+        {
+            "type": "file",
+            "name": "img/parceiros/iso.png",
+            "size": 6006,
+            "hash": "31b927efee4e3c404ce2b8ce65798b1982686a368b61be615f8ac6c3a122f156"
+        },
+        {
+            "type": "file",
+            "name": "img/parceiros/onip.png",
+            "size": 3664,
+            "hash": "073874a1292a39c1eb94fa327d75f624d4d5c965fc03a46c0950f0417f395f34"
+        },
+        {
+            "type": "file",
+            "name": "img/parceiros/tecnologia-alema.png",
+            "size": 5383,
+            "hash": "f260bba99ad822c57c8a3d1fc1f5a0a552cb9799a676efe852b928043878976f"
+        },
+        {
+            "type": "file",
+            "name": "img/resultados/antes-depois-1.jpg",
+            "size": 76350,
+            "hash": "d138d9fa52af357f8a9a51fb69a9c1f610e3dd73e81ddb442d3b9feede7d2b00"
+        },
+        {
+            "type": "file",
+            "name": "img/resultados/antes-depois-2.jpg",
+            "size": 37983,
+            "hash": "15c2803e321861ff51b020a9de219511900a84ef6b461d958da1b18079a8fbfe"
+        },
+        {
+            "type": "file",
+            "name": "img/resultados/antes-depois-3.jpg",
+            "size": 29264,
+            "hash": "5f9c39eb046ec8741f7c6fbfe578a2f385a31d02611115f3ee0580e85798b1f8"
+        },
+        {
+            "type": "file",
+            "name": "img/servicos/arcondicionado.png",
+            "size": 117924,
+            "hash": "55c31ba25d1e6b8b0e4e764a1dc07259d242376e02fae8b33abfb90d8e212743"
+        },
+        {
+            "type": "file",
+            "name": "img/servicos/cadeira.png",
+            "size": 142638,
+            "hash": "36290a089287f2fa88888e45865f3d7219e3779aa5277f69c92c5cfa7621da96"
+        },
+        {
+            "type": "file",
+            "name": "img/servicos/colchao.png",
+            "size": 99982,
+            "hash": "53060491db9fb7a4965373d3a068adda5f84f53b6e78f937f5d8598cce974569"
+        },
+        {
+            "type": "file",
+            "name": "img/servicos/hidratacao.png",
+            "size": 116757,
+            "hash": "9043d03e958d1727f4b04b5c51e22741e442d025561ae20effedfeae13aa5d5d"
+        },
+        {
+            "type": "file",
+            "name": "img/servicos/higienizacao.png",
+            "size": 112147,
+            "hash": "3e8e607d75685c74f4dae9c56faabf41d4b5466af1a6caeee136a4ac266f0d86"
+        },
+        {
+            "type": "file",
+            "name": "img/servicos/impermeabilizacao.png",
+            "size": 126943,
+            "hash": "b74521c55b7fd2cf02883bfbe816326dd3ac42c5b958db078dc83d644dc7908f"
+        },
+        {
+            "type": "file",
+            "name": "img/servicos/limpeza.png",
+            "size": 124619,
+            "hash": "d1b82c620835eff880a911ee01665c45bff13b82b0501e43f5e7fd7c658d8942"
+        },
+        {
+            "type": "file",
+            "name": "img/servicos/tapete.png",
+            "size": 138897,
+            "hash": "72e366f192ba21ffe53083dfeaff515ccaca72f16294d29234e4490f67bc3a02"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/OrganizacaoMenuMobile.php",
+            "size": 3808,
+            "hash": "7066f184f75ed1e3513fa8e87615c29d24b1d1f42f68f1f7ecdcdb3f5d967de2"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/OrganizacaoMenuPrincipal.php",
+            "size": 3861,
+            "hash": "2be9e9eca4cb7ed40a939b1a42379ca0f2092c052f65e83f387710e2df6073ec"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/OrganizacaoMenuRodape.php",
+            "size": 3685,
+            "hash": "c76ad86653adcf8657a751aaf38a66e0507dc7b1d87c4d80ab9a92b06212a78f"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/PostTypeBanner.php",
+            "size": 2048,
+            "hash": "41a09def8319e29d032ff3765e2844063d632ebdabb1659d3052db69bbb914b8"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/PostTypeProdutos.php",
+            "size": 3220,
+            "hash": "a8ce55a5abede5a55cfa29af0514ba83b87be3894947df4bb64cd33e02c5192d"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/adminControlMenu.php",
+            "size": 794,
+            "hash": "ebd87f0b8e6c1ef0c8dfd5d5bbbb0c783de3153066002dc7e4559384786063e2"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/adminCustomize.php",
+            "size": 2954,
+            "hash": "3c4379b1ea309b284008faf5df42718fcf50d6db9759ab6b1bb21c256f06dc6e"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/ajax.php",
+            "size": 2979,
+            "hash": "47888584a079cf07bce2f9b4da4d621d7a3b0a6498987348fe4094d439de12df"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/excerptLenght.php",
+            "size": 116,
+            "hash": "93b46e6fdc44217cc9869d5890f6dc0f3263c6313cc8dc27502aa18f379184f7"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/excerptMore.php",
+            "size": 123,
+            "hash": "784ff0ce194aa0e0c2f401a41f857aa9b6a3ed71b8cd1089141c6a6782dceecd"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/headFunctions.php",
+            "size": 544,
+            "hash": "9e343bd43c3cbba08ed5f461675df43593628f5a4e36294fe0f6509a26ca8432"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/menuPrincipal.php",
+            "size": 465,
+            "hash": "92fd63d762c896e428a18c56afe50d63fbaa1b61a53d0f6c13860f68ca819c15"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/paged.php",
+            "size": 79,
+            "hash": "98837796af1cc6c077c8071b6e3c40459483fa2615864320bff1298d9e6cc110"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/paginacao.php",
+            "size": 7667,
+            "hash": "16b683ec7856be39fd2358bd236d837bacd36c0fdaebdec9ad33d0dac73105d9"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/paginationList.php",
+            "size": 341,
+            "hash": "05aa16368d442ab5f29c7e1a7a03726481cce4661d2b99f3d41047970d4b7570"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/supportThumbnails.php",
+            "size": 50,
+            "hash": "dc12bcdb0eb814a89a5c3d3218517e4c92f794d92ecd5d3ecd609f2808285eb0"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/titleName.php",
+            "size": 2010,
+            "hash": "d2c360f17a58ec47eeb0aae4b4c4cd8488b4c5ba8de0ec44daea3762cb9fc882"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/var.php",
+            "size": 254,
+            "hash": "2e713cfaeca30a0df29a99d4ee3672115036603f1686d1660559b44468f21e90"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/wpDescription.php",
+            "size": 670,
+            "hash": "7fec288fe7264c157fb3352e474220cb99a969165d0e9984d3915c0486646fee"
+        },
+        {
+            "type": "file",
+            "name": "inc/functions/wpTitle.php",
+            "size": 708,
+            "hash": "9ac4730c78aa27a3a775997d85fce5ebc7df7d3be5c2edb5678f51007b71bd63"
+        },
+        {
+            "type": "file",
+            "name": "templates/home/home-artigos.php",
+            "size": 2007,
+            "hash": "434b7d22df23c1833d095b157240704edc3d6fbc2d2af99dea045d988c0dd0fb"
+        },
+        {
+            "type": "file",
+            "name": "templates/home/home-banner.php",
+            "size": 1617,
+            "hash": "aee47dc90b0e53cd27213f4ecaa00071be49aa2a44338a36a568247b19c9aee5"
+        },
+        {
+            "type": "file",
+            "name": "templates/home/home-clientes.php",
+            "size": 887,
+            "hash": "63b3b0c989c1488b9eccf0a5c7636e801acd2624c30e380374092c09efe1f0d9"
+        },
+        {
+            "type": "file",
+            "name": "templates/home/home-contato.php",
+            "size": 2536,
+            "hash": "50ab2989bf304575b91fa1a2dad3797cff5e136fe1a8f7231c01bcf4147a9698"
+        },
+        {
+            "type": "file",
+            "name": "templates/home/home-depoimentos.php",
+            "size": 3283,
+            "hash": "36343b04c044d2b0c22da298f7c7af1f79dd6bb3fdd33fae03800f4d5ceba561"
+        },
+        {
+            "type": "file",
+            "name": "templates/home/home-resultados.php",
+            "size": 1444,
+            "hash": "c84451e4b1d4f7288fc269904dbf475ce4843e1194d927d97a6a7fe0128482fd"
+        },
+        {
+            "type": "file",
+            "name": "templates/home/home-vantagens.php",
+            "size": 1247,
+            "hash": "d728636f48e31f6974d5552b8f0ff781631dc073af86292ddd511de99e3dcd1f"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/about-higienizacao.php",
+            "size": 1910,
+            "hash": "1c499dab1104a170713ea855b1dd2e915cb48d1c23aadd9a4efd69c063f1365a"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/contato-maps.php",
+            "size": 1143,
+            "hash": "3c05c4533da820fc5b84b1188d8bc4354dc27f91f32edb30a1a0ff6e83fd9b15"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/header-menu-higienizacao.php",
+            "size": 1227,
+            "hash": "a7deb0bdd0b0b85dcfc45cc591a8d027e5d86496d9633dacb379ee8f99743716"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/header-menu.php",
+            "size": 1305,
+            "hash": "86480c55ebac791bcd9ec654370b5912329dbabea40b19a8b64c67fd4c1d57bb"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/header-mobile-higienizacao.php",
+            "size": 1183,
+            "hash": "c0d3a72f3b3426fb750e1547301e686a782dce1d55913394f211a72eca99ee44"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/header-mobile.php",
+            "size": 871,
+            "hash": "418f3ff0f95cb5e272b3beb1d88521bc0dcffa749f97c117eef97ab719d04bd2"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/header-title.php",
+            "size": 209,
+            "hash": "60f352e555334f75a0222d3f737becbc39b55004ad72e16050da42c7cf33d41e"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/part-call.php",
+            "size": 916,
+            "hash": "3f0eb66de14b2b7cc1371a72e24ab47faac763686520b161acdfdfc542c43995"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/part-categories-list.php",
+            "size": 2795,
+            "hash": "6339ce92a7a97ec36175656e8d77ea6017643bcfbac9af9d6e8cebe3282e6425"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/part-categories.php",
+            "size": 582,
+            "hash": "95cd928af360966680779332466deb973ecda88dc709604ec0f9cbab6dbde161"
+        },
+        {
+            "type": "file",
+            "name": "templates/parts/pre-header.php",
+            "size": 1489,
+            "hash": "5442705d58f82a2bef098c93fb1f5e66b14f1683561fd2a80fbfefa3ea5ccd62"
+        }
+    ]
+}
